@@ -1,0 +1,9 @@
+2017-02-19 21:09:31,284 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\GitMavenWS\ArtMavenProject\pom.xml
+2017-02-19 21:09:35,721 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GrpMavenPro:ArtMavenProject:0.0.1-SNAPSHOT @ D:\GitMavenWS\ArtMavenProject\pom.xml.
+2017-02-19 21:09:38,170 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ArtMavenProject/src/main/java
+2017-02-19 21:09:38,177 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ArtMavenProject/src/test/java
+2017-02-19 21:09:41,172 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2017-02-19 21:09:42,103 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-19 21:09:42,104 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitMavenWS\ArtMavenProject\src\main\resources
+2017-02-19 21:09:42,106 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-19 21:09:42,107 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitMavenWS\ArtMavenProject\src\test\resources
